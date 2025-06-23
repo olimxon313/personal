@@ -1,0 +1,9 @@
+{
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "typescript": "typescriptreact"
+  },
+  "editor.autoClosingTags": true,
+  "editor.snippetSuggestions": "top",
+  "emmet.triggerExpansionOnTab": true
+}
